@@ -5,10 +5,9 @@
 # Website Template 網站模板 18
 
 - Html, Css / Sass, Javascript, [Font Awesome 6](https://fontawesome.com/v6/search), [Cgfaces](https://cgfaces.com)
-- Pardn Ltd 帕登國際有限公司
-- Pardn Chiu 邱敬幃
+- [Pardn Ltd 帕登國際有限公司](https://www.linkedin.com/company/pardnltd)
+- [Pardn Chiu 邱敬幃](https://www.linkedin.com/in/pardnchiu)
 - [joball.tw/@pardnltd](https://joball.tw/@pardnltd)
-- [linkedin.com/in/pardnchiu](https://www.linkedin.com/in/pardnchiu)
 - [lin.ee/Gtcb5kc](https://lin.ee/Gtcb5kc)
 
 ***
@@ -21,4 +20,4 @@
 
 ***
 
-Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://www.linkedin.com/company/pardnltd)
